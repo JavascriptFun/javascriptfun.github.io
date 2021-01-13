@@ -1,0 +1,28 @@
+﻿body {
+    background-color: burlywood;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    text-align: center;
+    align-content: center;
+}
+
+#Prompt {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:auto;
+    margin-bottom:auto;
+    text-align: center;
+    align-content: center;
+    background-color:palegoldenrod;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+}
+
+button {
+    width: 70;
+    height: 40;
+}
